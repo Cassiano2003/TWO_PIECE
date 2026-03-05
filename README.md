@@ -1,5 +1,3 @@
-# Trabalho-Final-de-ProgMobile
-
 # Two Pieces
 
 ## Visão Geral
