@@ -63,8 +63,8 @@ O aplicativo deve permitir as seguintes funcionalidades principais:
 
 * **Catálogos**:
     * Exibição das informações nos catálogos de Personagens, Akuma no Mi e Tripulações com base no progresso do usuário.
-    ![Tela de akuma no mi](./Imagens_APP/akuma_no_mi.jpg)
     ![Tela de imigos](./Imagens_APP/imigos.jpg)
+    ![Tela de akuma no mi](./Imagens_APP/akuma_no_mi.jpg)
     ![Tela de tripulaçoes](./Imagens_APP/tripulacoes.jpg)
 
 ---
