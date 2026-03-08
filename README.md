@@ -34,24 +34,33 @@ O aplicativo deve permitir as seguintes funcionalidades principais:
 
 * **Gerenciamento de Usuários**:
     * Cadastro de novos usuários (nome, e-mail, senha).
-    ![Tela de cadastro][Imagens_APP/cadastro.jpg]
+    ![Tela de cadastro](./Imagens_APP/cadastro.jpg)
     * Modificação de dados de usuário.
+    ![Tela de atualiza](./Imagens_APP/atualiza.jpg)
     * Exclusão de contas de usuário.
+    ![Tela de excluir](./Imagens_APP/excluir.jpg)
     * Validação para evitar e-mails e nomes de usuário repetidos.
     * Acesso restrito para usuários não cadastrados.
 
 * **Gerenciamento de Personagens**:
     * Criação de personagens com atributos personalizáveis (Nome, Origem, Associação, Gênero, Arma, Raça e Akuma no Mi - todos obrigatórios).
+    ![Tela de criar personagem](./Imagens_APP/cria_personagem.jpg)
     * Modificação de atributos de personagens criados pelo usuário.
     * Exclusão de personagens.
     * Atualização de atributos do personagem após subir de nível.
+    ![Tela de informacoes](./Imagens_APP/informacoes1.jpg)
+    ![Tela de informacoes](./Imagens_APP/informacoes2.jpg)
 
 * **Sistema de Combate**:
     * Batalhas por turnos entre o personagem do usuário e personagens pré-definidos do universo One Piece (controlados pelo "Computador").
+    ![Tela de batalha](./Imagens_APP/batalha.jpg)
     * Cálculos internos para balanceamento do combate.
 
 * **Catálogos**:
     * Exibição das informações nos catálogos de Personagens, Akuma no Mi e Tripulações com base no progresso do usuário.
+    ![Tela de cadastro](./Imagens_APP/cadastro.jpg)
+    ![Tela de cadastro](./Imagens_APP/cadastro.jpg)
+    ![Tela de cadastro](./Imagens_APP/cadastro.jpg)
 
 ---
 
