@@ -25,12 +25,17 @@ O aplicativo possui dois tipos de usuários:
 
 * **Usuário Não Cadastrado**: Pode visualizar apenas a tela inicial e a tela de cadastro. Não tem acesso às funcionalidades do jogo.
 * **Jogador (Usuário Cadastrado)**: Possui acesso completo ao aplicativo, incluindo a criação de personagens, combates e os catálogos.
+![Tela de opcoes](./Imagens_APP/opcoes.jpg)
 
 ---
 
 ## Requisitos Funcionais
 
 O aplicativo deve permitir as seguintes funcionalidades principais:
+
+* **Como Jogar**:
+    * É um tela que vai mostrar como o jogo funciona e te dar um base de como jogar.
+    ![Tela de como jogar](./Imagens_APP/como_jogar.jpg)
 
 * **Gerenciamento de Usuários**:
     * Cadastro de novos usuários (nome, e-mail, senha).
@@ -58,9 +63,9 @@ O aplicativo deve permitir as seguintes funcionalidades principais:
 
 * **Catálogos**:
     * Exibição das informações nos catálogos de Personagens, Akuma no Mi e Tripulações com base no progresso do usuário.
-    ![Tela de cadastro](./Imagens_APP/cadastro.jpg)
-    ![Tela de cadastro](./Imagens_APP/cadastro.jpg)
-    ![Tela de cadastro](./Imagens_APP/cadastro.jpg)
+    ![Tela de akuma no mi](./Imagens_APP/akuma_no_mi.jpg)
+    ![Tela de imigos](./Imagens_APP/imigos.jpg)
+    ![Tela de tripulaçoes](./Imagens_APP/tripulacoes.jpg)
 
 ---
 
