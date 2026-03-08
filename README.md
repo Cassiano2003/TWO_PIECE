@@ -34,6 +34,7 @@ O aplicativo deve permitir as seguintes funcionalidades principais:
 
 * **Gerenciamento de Usuários**:
     * Cadastro de novos usuários (nome, e-mail, senha).
+    ![Tela de cadastro][Imagens_APP/cadastro.jpg]
     * Modificação de dados de usuário.
     * Exclusão de contas de usuário.
     * Validação para evitar e-mails e nomes de usuário repetidos.
